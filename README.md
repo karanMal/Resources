@@ -17,3 +17,6 @@ Reinforcement learning:
 
 [DeepMind - David Silver Tutorials](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=RDCMUCP7jMXSY2xbc3KCAE0MHQ-A&start_radio=1&t=3227s)
 
+[Sutton & barto Book pdf](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
+
