@@ -11,6 +11,8 @@ NLP:
 
 [Transformers Explaination](https://jalammar.github.io/illustrated-transformer/)
 
+[Transformers United Course Manning](https://web.stanford.edu/class/cs25/)
+
 Reinforcement learning:
        
 [CS 294-112 at UC Berkeley Deep Reinforcement Learning videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
